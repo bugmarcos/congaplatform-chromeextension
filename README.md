@@ -21,5 +21,5 @@ The Conga Platform Extension is a Chrome Extension designed to enhance productiv
 * You can compare record from salesforce page in a split view to compare the record details between salesforce and Conga platform. This will help see values on same page from both platforms and records can be updated during testing.
 * Once the split view is open it will automatically try to detect the record change on the tab and open the record details in split view as the user navigates through records.
 
-[20250428_181725_CompareRecord.mp4](assets/20250428_181725_CompareRecord.mp4)
+[20250428_181725_CompareRecord.mov](assets/20250428_181725_CompareRecord.mov)
 
