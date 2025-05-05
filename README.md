@@ -22,9 +22,8 @@ The Conga Platform Extension is a Chrome Extension designed to enhance productiv
 * Once the split view is open it will automatically try to detect the record change on the tab and open the record details in split view as the user navigates through records.
   
   <video width="600px" controls>
-  <source src="assets/20250428_181725_CompareRecord.mp4" type="video/mp4">
+  <source src="assets/20250428_181725_CompareRecord.mp4" type="video/mp4"></video>
 
-</video>
 
 > 4) Conga Platform Query
 
@@ -46,3 +45,7 @@ SELECT id,PriceRule.Ruleset.Type FROM PriceRuleEntry WHERE PriceRule.Name = 'Tes
 
 ![](assets/20250428_220341_queryfilter.png)
 
+* Below is demo showing how you can query using related fields in query
+
+    <video width="600px" controls>
+  <source src="assets/QueryDemo.mp4" type="video/mp4"></video>
