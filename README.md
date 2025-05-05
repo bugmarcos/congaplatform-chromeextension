@@ -47,5 +47,9 @@ SELECT id,PriceRule.Ruleset.Type FROM PriceRuleEntry WHERE PriceRule.Name = 'Tes
 
 * Below is demo showing how you can query using related fields in query
 
+
+  https://github.com/user-attachments/assets/3ad785ef-03a8-4717-9336-f1cd18d4d783
+
+
     <video width="600px" controls>
   <source src="assets/QueryDemo1.mp4" type="video/mp4"></video>
