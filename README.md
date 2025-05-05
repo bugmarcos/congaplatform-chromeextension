@@ -48,4 +48,4 @@ SELECT id,PriceRule.Ruleset.Type FROM PriceRuleEntry WHERE PriceRule.Name = 'Tes
 * Below is demo showing how you can query using related fields in query
 
     <video width="600px" controls>
-  <source src="assets/QueryDemo.mp4" type="video/mp4"></video>
+  <source src="assets/QueryDemo1.mp4" type="video/mp4"></video>
